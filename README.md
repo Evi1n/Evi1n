@@ -1,8 +1,4 @@
 
-![images](https://user-images.githubusercontent.com/89968212/183363192-66a5e0a2-b33e-49c4-a476-41ef6ade1f79.svg)
-
-
-
 
 #👋 Hi there I’m @Evi1n
 - ☕ Coffee is how I keep up with < code />
