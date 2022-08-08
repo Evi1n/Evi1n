@@ -1,5 +1,5 @@
-![5fb](https://user-images.githubusercontent.com/89968212/183365089-38d64ceb-8d60-47a8-9ef4-e7e0c9cf723f.svg)
-![giphy](https://user-images.githubusercontent.com/89968212/183365221-53a5658b-d48b-4b83-a33d-c7cda5214852.svg)
+![5fb](https://user-images.githubusercontent.com/89968212/183365313-25a0c6ac-73c9-4bff-b7ff-ae6eacb94ccc.gif)
+
 
 - ☕ Coffee is how I keep up with < code />
 - 🌱 I’m currently learning python
