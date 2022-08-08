@@ -1,6 +1,5 @@
+![5fb](https://user-images.githubusercontent.com/89968212/183365089-38d64ceb-8d60-47a8-9ef4-e7e0c9cf723f.svg)
 
-
-#👋 Hi there I’m @Evi1n
 - ☕ Coffee is how I keep up with < code />
 - 🌱 I’m currently learning python
 - 📫 How to reach me 👀  instagram : eviln.codes or gmail : evilnn.19@gmail.com
