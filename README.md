@@ -1,4 +1,4 @@
-# Hi, I'm Eviln!<3
+# Hi, I'm Evin!<3
 
 - ☕ Coffee is how I keep up with < code />
 - 🌱 I’m currently doing projects with python
